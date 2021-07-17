@@ -8,7 +8,7 @@ I'm Enes Yedikardes a student an curious programmer on [Istanbul Commerce Univer
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently looking for a intern/job.
+- 🔭 I’m currently intern in Altek Bilgisayar. And working for Skyward Space
 - 📫 How to reach me: enessyedikardess@gmail.com.
 - 🌱 I’m currently learning Machine Learning, AI.
 - ⚡ Fun fact: I play games and workout very often.
@@ -18,6 +18,7 @@ I'm Enes Yedikardes a student an curious programmer on [Istanbul Commerce Univer
 - :globe_with_meridians: https://enesyedikardes.net 
 - My resume/cv is in the website.
 - :email: enessyedikardess@gmail.com
+- http://www.skywardspace.com
 
 
 ![stats](https://github-readme-stats.vercel.app/api?username=eneeesyk&show_icons=true&hide_title=true&count_private=true&theme=radical)
