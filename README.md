@@ -8,7 +8,7 @@ I'm Enes Yedikardes a student an curious programmer on [Istanbul Commerce Univer
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently intern in Altek Bilgisayar. And working for Skyward Space
+- 🔭 I’m currently Software Engineer intern at Hitit.
 - 📫 How to reach me: enessyedikardess@gmail.com.
 - 🌱 I’m currently learning Machine Learning, AI.
 - ⚡ Fun fact: I play games and workout very often.
