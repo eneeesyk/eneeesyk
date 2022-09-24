@@ -18,7 +18,6 @@ I'm Enes Yedikardes a student an curious programmer on [Istanbul Commerce Univer
 - :globe_with_meridians: https://enesyedikardes.net 
 - My resume/cv is in the website.
 - :email: enessyedikardess@gmail.com
-- http://www.skywardspace.com
 
 
 ![stats](https://github-readme-stats.vercel.app/api?username=eneeesyk&show_icons=true&hide_title=true&count_private=true&theme=radical)
