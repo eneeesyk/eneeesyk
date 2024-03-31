@@ -1,6 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently working on Senior Project<br>👯 I’m looking for work, a job.<br>🌱 I’m currently learning Google Cloud<br>💬 Ask me about anything
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in//in/enesyk/) 
